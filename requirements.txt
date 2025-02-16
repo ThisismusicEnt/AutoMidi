@@ -1,0 +1,29 @@
+# Core Python libraries
+numpy
+scipy
+pandas
+
+# Audio Processing
+librosa
+pydub
+soundfile
+ffmpeg
+
+# MIDI Processing
+mido
+pretty_midi
+python-rtmidi
+
+# AI & Machine Learning
+tensorflow
+magenta
+numba==0.59.1
+llvmlite==0.42.0
+essentia
+
+# Miscellaneous
+sox
+intervaltree
+gym
+bz2file
+promise
