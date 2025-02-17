@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: note-seq
+Version: 0.0.3
+Summary: Use machine learning to create art and music
+Home-page: https://magenta.tensorflow.org/
+Author: Google Inc.
+Author-email: magenta-discuss@gmail.com
+License: Apache 2
+Keywords: note_seq note sequences
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: absl-py
+Requires-Dist: attrs
+Requires-Dist: bokeh (>=0.12.0)
+Requires-Dist: intervaltree (>=2.1.0)
+Requires-Dist: IPython
+Requires-Dist: librosa (>=0.6.2)
+Requires-Dist: numpy
+Requires-Dist: pandas (>=0.18.1)
+Requires-Dist: pretty-midi (>=0.2.6)
+Requires-Dist: protobuf (>=3.6.1)
+Requires-Dist: pydub
+Requires-Dist: scipy (>=0.18.1)
+
+UNKNOWN
+
+
